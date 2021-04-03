@@ -9,3 +9,12 @@ img {
     margin-right: auto;
     width: 60%;
 }
+
+p {
+    position: absolute;
+    top: 60%;
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
